@@ -21,3 +21,18 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.env
+src/
+*.log
+
+# Firebase & IDE
+.firebase/
+.firebaserc
+database-debug.log
+firestore-debug.log
+
+# IntelliJ
+.idea/
+
+
