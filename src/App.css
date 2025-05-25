@@ -6,6 +6,17 @@
   height: 40vmin;
   pointer-events: none;
 }
+/*
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: #121212 !important;
+  color: white !important;
+}*/
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
